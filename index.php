@@ -4,7 +4,7 @@ require "header.php";
 require "sidebar.php";
 ?>
     
-<div class="col-xs-8 col" id="col2">
+<div class="col-xs-9 col" id="col2">
     <h4>WE ARE HERE TO HELP YOU</h4>
     <br>
     <p>
