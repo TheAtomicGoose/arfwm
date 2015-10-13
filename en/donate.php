@@ -16,7 +16,7 @@ require "sidebar.php";
         <li>
             <strong>By Credit Card through Razoo</strong>
             <br><br>
-            <a href="http://www.razoo.com/story/Abortion-Rights-Fund-Of-Western-Massachusetts?referral_code=share"><img class="img-responsive" src="./images/donate.png"></a>
+            <a href="http://www.razoo.com/story/Abortion-Rights-Fund-Of-Western-Massachusetts?referral_code=share"><img class="img-responsive" src="../images/donate.png"></a>
             <br><br>
         </li>
         <li>
