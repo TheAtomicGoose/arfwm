@@ -3,7 +3,7 @@ $title = "Contact Us";
 require "header.php";
 require "sidebar.php";
 ?>
-<div class="col-xs-8">
+<div class="col-xs-9">
     <h4>CONTACT US</h4>
     <h6>BY PHONE</h6>
     <p>

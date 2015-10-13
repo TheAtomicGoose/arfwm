@@ -3,7 +3,7 @@ $title = "Volunteer";
 require "header.php";
 require "sidebar.php";
 ?>
-<div class="col-xs-8">
+<div class="col-xs-9">
     <h4>VOLUNTEER</h4>
     <br>
     <p>

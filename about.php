@@ -3,7 +3,7 @@ $title = "About Us";
 require "header.php";
 require "sidebar.php";
 ?>
-<div class="col-xs-8">
+<div class="col-xs-9">
     <h4>ABOUT US</h4>
     <br>
     <h6>OUR VISION</h6>

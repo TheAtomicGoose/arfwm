@@ -3,7 +3,7 @@ $title = "MassHealth and Health Safety Net";
 require "header.php";
 require "sidebar.php";
 ?>
-<div class="col-xs-8">
+<div class="col-xs-9">
     <h4>MASSHEALTH AND HEALTH SAFETY NET</h4>
     <br>
     <p>

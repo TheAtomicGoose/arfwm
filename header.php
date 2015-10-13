@@ -15,7 +15,8 @@
                     <li class="dropdown">
                         <a href="./getting-help.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Getting Help <span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li id="first-dropdown-item"><a href="./clinics.php">Clinics</a></li>
+                            <li><a href="./getting-help.php">Getting Help</a></li>
+                            <li><a href="./clinics.php">Clinics</a></li>
                             <li><a href="./masshealth.php">MassHealth and Health Safety Net</a></li>
                         </ul>
                     </li>

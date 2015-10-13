@@ -45,7 +45,7 @@ h6 {
     color: #933;
 }
 
-#p-border-dashed {
+.p-border-dashed {
     padding: 10px;
     margin: 5px;
     border: 1px dashed #ccc;
@@ -62,16 +62,12 @@ h6 {
     border-radius: 10px 10px 0 0;
 } 
 
-#navigation li {
+#navigation li:not(:last-child) {
     border-right: 1px solid gray;
 }
 
 #navigation li a {
     color: white;
-}
-
-#navigation li:last-child {
-    border: none !important;
 }
 
 #navigation li a:hover {
@@ -96,6 +92,6 @@ h6 {
     border: none;
 }
 
-#first-dropdown-item {
+.dropdown-menu li:not(:last-child) {
     border-bottom: 1px solid gray;
 }
