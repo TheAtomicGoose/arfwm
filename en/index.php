@@ -11,10 +11,10 @@ require "sidebar.php";
         We provide financial assistance to women and girls who are seeking abortions. While we don't provide abortion care, we are here to help you pay for your abortion if you cannot afford it.
     </p>
     <p>
-        Call us at <strong>413-582-3532</strong> or, if you are calling from Western Massachusetts, <strong>800-465-6000</strong>. Your call is confidential, and we will return your call within 24 hours. To learn more about how this works, please visit our <a href="#">Get Help</a> page.
+        Call us at <strong>413-582-3532</strong> or, if you are calling from Western Massachusetts, <strong>800-465-6000</strong>. Your call is confidential, and we will return your call within 24 hours. To learn more about how this works, please visit our <a href="./getting-help.php">Get Help</a> page.
     </p>
     <p>
-        If you are looking for medical help in Western Massachusetts, here is a <a href="#">list of clinics</a>.
+        If you are looking for medical help in Western Massachusetts, here is a <a href="./clinics.php">list of clinics</a>.
     </p>
     <p>
         Please contact us; We are here to help!
@@ -38,6 +38,8 @@ require "sidebar.php";
             <a href="http://arfwm.org/pdf/abortion_care_in_ma_report.pdf">Read the report on abortion care in Massachusetts</a>
         </p>
     </div>
+    <br>
+    <img id="nnaf" src="../images/nnaf.gif">
 </div>
 <?php
 require "footer.php";
