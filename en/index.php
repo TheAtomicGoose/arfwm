@@ -5,7 +5,7 @@ require "sidebar.php";
 ?>
     
 <div class="col-xs-9" id="col2">
-    <h4>WE ARE HERE TO HELP YOU</h4>
+    <h4>WE ARE HERE TO HELP YOU <span id="lang-switcher"><a href="#">English</a> / <a href="../es/index.php">Español</a></span></h4> 
     <br>
     <p>
         We provide financial assistance to women and girls who are seeking abortions. While we don't provide abortion care, we are here to help you pay for your abortion if you cannot afford it.

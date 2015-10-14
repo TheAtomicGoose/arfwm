@@ -1,0 +1,19 @@
+<?php
+$title = "Voluntariados";
+require "header.php";
+require "sidebar.php";
+?>
+<div class="col-xs-9">
+    <h4>VOLUNTARIADOS</h4>
+    <br>
+    <p>
+        ARFWM provee fondos a mujeres y niñas quienes procuran un aborto y no pueden pagar por el. Un aborto seguro, legal y digno es una parte esencial de la salud de la mujer, pero hay muchas que no pueden obtenerlo.
+        <br><br>
+        Somos una organización voluntaria, basada en la comunidad, dedicada a superar las barreras económicas al cuidado medico relacionado con el aborto. Nuestros voluntarios y donadores dan su tiempo y apoyo porque están comprometidos porque saben que sin dinero, cualquier derecho no tiene significado.
+        <br><br>
+        Por favor llámanos al <strong>413 582 3531</strong> o al <strong>800 450 6000</strong> (de Massachusetts Occidental) si tiene alguna pregunta o si quiere ser voluntario.
+    </p>
+</div>
+<?php
+require "footer.php";
+?>
