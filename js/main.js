@@ -62,11 +62,18 @@ $(document).ready(function() {
         return arr[num];
     }
 
+    /*
+     * Sets the links for the footer language switcher
+     */
     function getLangURLs() {
         var page = window.location.href;
         var opLangURL;
         var lang = $("html").attr("lang");
         
+        // The first case is for the location http://arfwm.dev/,
+        // which is actually the English index.php page,
+        // but the URL won't reflect that so I'm hardcoding
+        // the language switcher for that URL
         if (page === "http://arfwm.dev/") {
             opLangURL = "http://arfwm.dev/es/index.php";
             $("#esp").attr("href", opLangURL);
@@ -80,6 +87,11 @@ $(document).ready(function() {
 
     }
 
+    /*
+     * Takes a language code and a replacement language code and
+     * replaces any instance of the initial language code in
+     * the current URL with the replacment language code
+     */
     function switchURLLang(lang, replaceLang) {
         var page = window.location.href;
         return page.substring(0, page.indexOf(lang)) + replaceLang + page.substring(page.indexOf(lang) + lang.length);
