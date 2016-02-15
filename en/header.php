@@ -26,4 +26,4 @@
                     <li><a href="./donate.php">Donate</a></li>
                     <li><a href="./volunteer.php">Volunteer</a></li>
                 </ul>
-        <img class="img-responsive" src="../images/sail-march-2010-038-cropped-02.jpg">
+        <img class="img-responsive" src="../images/sail-women-2x4-350.jpg">
