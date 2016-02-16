@@ -21,7 +21,7 @@ require "sidebar.php";
         Damos asistencia financiera a mujeres y niñas que procuran abortos. No ofrecemos cuidados o atenciones en relación a un aborto, estamos aquí para ayudarte a pagar si no puedes encontrar fondos.
     </p>
     <p>
-        Nos puedes contactar al <strong>413 582 3532</strong>, o, si llamas desde el oeste de Massachusetts, al <strong>800 465 6000</strong>. Regresamos mensajes en menos de 24 horas. Para aprender mas acerca de como podemos ayudarte, visita la pagina <a href="./getting-help.php">Obtén Ayuda.</a>
+        Nos puedes contactar al <strong>413 582 3532</strong>. Regresamos mensajes en menos de 24 horas. Para aprender mas acerca de como podemos ayudarte, visita la pagina <a href="./getting-help.php">Obtén Ayuda.</a>
     </p>
     <p>
         Para hablar con alguien en español, si usted vive en el oeste de Massachusetts, por favor llame al Planned Parenthood de Springfield al: <strong>800.258.4448</strong>
