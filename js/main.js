@@ -1,7 +1,15 @@
 $(document).ready(function() {
-    // Makes the left column at least as tall as the right column
-    if ($(".col-xs-9").height() > $("#col1").height()) {
-        $("#col1").height($(".col-xs-9").height());
+
+    resize();
+
+    /* 
+     * Makes the link paths work by redirecting the homepage
+     * to the absolute path of the homepage, rather than having
+     * .htaccess just display index.php but not actually navigating
+     * to it.
+     */
+    if (window.location.href === "http://arfwm.org/") {
+        window.location.replace("http://arfwm.org/en/index.php");
     }
 
     // Keeps the hover color of "Getting Help" when the focus is
@@ -14,7 +22,6 @@ $(document).ready(function() {
             $(".dropdown-toggle").css("background-color", "#D86E20");
         }
     );
-
 
     /*
      * Returns the array of quotes corresponding
@@ -51,31 +58,38 @@ $(document).ready(function() {
         }
 
         $("#quote").text(quote); 
+        checkQuote();
     }
+
+
 
     /*
      * Takes an array as a parameter, returns
      * a random element from that array
      */
     function randomArrElement(arr) {
-        var num = Math.floor(Math.random() * arr.length) + 1;
+        var num = Math.floor(Math.random() * arr.length);
         return arr[num];
     }
 
     /*
-     * Sets the links for the footer language switcher
+     * Sets the links for the footer language switcher. This will
+     * only work if the URL is arfwm.org, not if it's arfwm.dev as
+     * it is in my local development environment.
      */
     function getLangURLs() {
         var page = window.location.href;
         var opLangURL;
         var lang = $("html").attr("lang");
         
-        // The first case is for the location http://arfwm.dev/,
-        // which is actually the English index.php page,
-        // but the URL won't reflect that so I'm hardcoding
-        // the language switcher for that URL
-        if (page === "http://arfwm.dev/") {
-            opLangURL = "http://arfwm.dev/es/index.php";
+        /* 
+         * The first case is for the location http://arfwm.org/,
+         * which is actually the English index.php page,
+         * but the URL won't reflect that so I'm hardcoding
+         * the language switcher for that URL.
+         */
+        if (page === "http://arfwm.org/") {
+            opLangURL = "http://arfwm.org/es/index.php";
             $("#esp").attr("href", opLangURL);
         } else if (lang === "en") {
             opLangURL = switchURLLang(lang, "es");
@@ -90,7 +104,7 @@ $(document).ready(function() {
     /*
      * Takes a language code and a replacement language code and
      * replaces any instance of the initial language code in
-     * the current URL with the replacment language code
+     * the current URL with the replacement language code
      */
     function switchURLLang(lang, replaceLang) {
         var page = window.location.href;
@@ -99,4 +113,25 @@ $(document).ready(function() {
 
     randomQuote();
     getLangURLs();
+
 });
+
+// On window resize event
+$(window).resize(function() {
+    resize();
+    checkQuote();
+});
+
+// Makes the left column at least as tall as the right column
+function resize() {
+    if ($(".col-xs-9").height() > $("#col1").height()) {
+        $("#col1").height($(".col-xs-9").height());
+    }
+}
+
+// If the quote extends beyond the bottom of the column, get rid of the quote
+function checkQuote() {
+    if (document.getElementById("quote").getBoundingClientRect().bottom > document.getElementById("col1").getBoundingClientRect().bottom) {
+        $("#quote").text("");
+    }
+}

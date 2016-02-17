@@ -14,7 +14,7 @@ require "sidebar.php";
             <strong>Segundo Paso:</strong> Tu clínica te ayudara a saber la etapa de tu embarazo. Te preguntaran la fecha del primer día de tu ultima menstruación y posiblemente de pedirán que regreses para tomar una prueba de embarazo antes de decidir la fecha del aborto.
         </li>
         <li>
-            <strong>Tercer Paso:</strong> Para conseguir ayuda financiera, llámanos y deja un mensaje con tu nombre, tu numero telefónico, y si sera posible dejarte un mensaje: <strong>413-582-3532</strong> o <strong>1-800-465-6000</strong> (si llamas de la parte oeste de Massachusetts). Regresamos todos los mensajes en menos de 24 horas.
+            <strong>Tercer Paso:</strong> Para conseguir ayuda financiera, llámanos y deja un mensaje con tu nombre, tu numero telefónico, y si sera posible dejarte un mensaje: <strong>413-582-3532</strong>. Regresamos todos los mensajes en menos de 24 horas.
         </li>
     </ul>
     <br><br>

@@ -11,7 +11,7 @@ require "sidebar.php";
         <br><br>
         Somos una organización voluntaria, basada en la comunidad, dedicada a superar las barreras económicas al cuidado medico relacionado con el aborto. Nuestros voluntarios y donadores dan su tiempo y apoyo porque están comprometidos porque saben que sin dinero, cualquier derecho no tiene significado.
         <br><br>
-        Por favor llámanos al <strong>413 582 3531</strong> o al <strong>800 450 6000</strong> (de Massachusetts Occidental) si tiene alguna pregunta o si quiere ser voluntario.
+        Por favor llámanos al <strong>413 582 3531</strong> si tiene alguna pregunta o si quiere ser voluntario.
     </p>
 </div>
 <?php

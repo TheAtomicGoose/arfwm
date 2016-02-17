@@ -11,7 +11,7 @@ require "sidebar.php";
         <br><br>
         We are a community-based, all-volunteer organization dedicated to overcoming the economic barriers to abortion care. Our committed volunteers give their time and individual donors give their financial support because they know that without money, a right is meaningless.
         <br><br>
-        Please call us at 413 582 3532 or (in Western MA) 800 450 6000 if you have questions or would like to volunteer.
+        Please call us at 413-582-3532 if you have questions or would like to volunteer.
     </p>
 </div>
 <?php

@@ -7,7 +7,7 @@ require "sidebar.php";
     <h4>CONTACT US</h4>
     <h6>BY PHONE</h6>
     <p>
-        Call us at 413-582-3532, or, if you are calling from Western Massachusetts, call 800-465-6000. We return messages within 24 hours.
+        Call us at 413-582-3532. We return messages within 24 hours.
     </p>
     <h6>BY MAIL</h6>
     <p>
