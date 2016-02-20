@@ -24,7 +24,7 @@ require "sidebar.php";
         We will work with your regardless of your citizenship or immigration status.
     </p>
     <p class="p-border-dashed">
-        Para hablar con alguien en español, si usted vive en el oeste de Massachusetts, por favor llame al Planned Parenthood de Springfield al: <strong>800.258.4448</strong>
+        Para hablar con alguien en espa&ntilde;ol, si usted vive en el oeste de Massachusetts, por favor llame al Planned Parenthood de Springfield al: <strong>800.258.4448</strong>
     </p>
     <br>
     <p>

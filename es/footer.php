@@ -4,7 +4,7 @@
             <p id="copyright">
                 Copyright &copy; 2013
                 <span>&nbsp;|&nbsp;</span>
-                <span id="footer-lang-switcher"><a id="eng" href="">English</a> / <a id="esp" href="">Español</a></span>
+                <span id="footer-lang-switcher"><a id="eng" href="">English</a> / <a id="esp" href="">Espa&ntilde;ol</a></span>
             </p>
         </div>
     </footer>
