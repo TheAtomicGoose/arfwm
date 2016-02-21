@@ -22,7 +22,7 @@ require "sidebar.php";
         <li>
             <strong>Por Cheque</strong>
             <br>
-            Por favor env&iacute;e su cheque, a nombre de “The Abortion Rights Fund of Western MA” a la siguiente direcci&oacute;n:
+            Por favor env&iacute;e su cheque, a nombre de "The Abortion Rights Fund of Western MA" a la siguiente direcci&oacute;n:
             <br><br>
             ARFWM<br>
             P.O. Box 2162<br>

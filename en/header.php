@@ -1,3 +1,9 @@
+<?php
+if ($_SERVER['REQUEST_URI'] == "/") {
+    header('Location: http://arfwm.org/en/index.php');
+    die();
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

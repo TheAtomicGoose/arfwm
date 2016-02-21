@@ -15,11 +15,11 @@ require "sidebar.php";
     </p>
     <br>
     <p>
-        If you already have MassHealth and are having trouble finding a clinic or doctor who will take your MassHealth, give us a call and we’ll help you find one that does.
+        If you already have MassHealth and are having trouble finding a clinic or doctor who will take your MassHealth, give us a call and we'll help you find one that does.
     </p>
     <br>
     <p>
-        If you’re early in your pregnancy and you don’t have insurance, you may be eligible to enroll in MassHealth. If you think you may qualify or if you have questions about your eligibility, visit the MassHealth website to get information about enrolling, or contact Health Care for All and let them know we referred you. <strong><a href="http://www.hcfama.org/">Health Care for All</a></strong> has an excellent helpline serving English-, Spanish-, and Portuguese-speakers.
+        If you're early in your pregnancy and you don't have insurance, you may be eligible to enroll in MassHealth. If you think you may qualify or if you have questions about your eligibility, visit the MassHealth website to get information about enrolling, or contact Health Care for All and let them know we referred you. <strong><a href="http://www.hcfama.org/">Health Care for All</a></strong> has an excellent helpline serving English-, Spanish-, and Portuguese-speakers.
     </p>
     <br>
     <p>
@@ -27,11 +27,11 @@ require "sidebar.php";
     </p>
     <br>
     <p>
-        If you use <strong><a href="http://www.massresources.org/pages.cfm?contentID=50&pageID=13&Subpages=yes">Health Safety Net</a></strong> (also called “Free Care”), abortion care is also covered, but you may have to travel to Boston or Cambridge for your procedure. If you use Health Safety Net and are having trouble finding a clinic or doctor, give us a call for more information. We may also be able to help with the costs of travel to Boston.
+        If you use <strong><a href="http://www.massresources.org/pages.cfm?contentID=50&pageID=13&Subpages=yes">Health Safety Net</a></strong> (also called "Free Care"), abortion care is also covered, but you may have to travel to Boston or Cambridge for your procedure. If you use Health Safety Net and are having trouble finding a clinic or doctor, give us a call for more information. We may also be able to help with the costs of travel to Boston.
     </p>
     <br>
     <p>
-        You should always feel free to call us, even if you plan to use MassHealth to cover your abortion care. Don’t hesitate to get in touch if you have any questions or have any problems with MassHealth or Health Safety Net.  We will do our best to help you get the care to which you are entitled or to put you in touch with someone who can.
+        You should always feel free to call us, even if you plan to use MassHealth to cover your abortion care. Don't hesitate to get in touch if you have any questions or have any problems with MassHealth or Health Safety Net.  We will do our best to help you get the care to which you are entitled or to put you in touch with someone who can.
     </p>
 </div>
 <?php

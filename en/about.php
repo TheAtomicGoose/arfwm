@@ -53,7 +53,7 @@ It should not be so hard to choose and pay for abortion care.
     </p>
     <br>
     <p>
-        In Massachusetts, Medicaid does pay for abortion care for poor women, but there can be problems getting women enrolled in a timely way. Medicaid does not cover the working poor who cannot afford health insurance, nor the homeless. Women in Massachusetts with federal insurance – soldiers and their families, Native Americans using the Indian Health Services, women in federal prisons, and federal employees – and women who work for some religiously-affiliated organizations cannot use their health insurance to pay for abortions. Even when their health insurance does cover abortion care, women in abusive relationships or dangerous family situations may not be able use it safely. These are the women we help.
+        In Massachusetts, Medicaid does pay for abortion care for poor women, but there can be problems getting women enrolled in a timely way. Medicaid does not cover the working poor who cannot afford health insurance, nor the homeless. Women in Massachusetts with federal insurance &ndash; soldiers and their families, Native Americans using the Indian Health Services, women in federal prisons, and federal employees &ndash; and women who work for some religiously-affiliated organizations cannot use their health insurance to pay for abortions. Even when their health insurance does cover abortion care, women in abusive relationships or dangerous family situations may not be able use it safely. These are the women we help.
     </p>
     <br>
     <p>

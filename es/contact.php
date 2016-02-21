@@ -1,10 +1,10 @@
 <?php
-$title = "Contáctanos";
+$title = "Cont&aacute;ctanos";
 require "header.php";
 require "sidebar.php";
 ?>
 <div class="col-xs-9">
-    <h4>CONTÁCTANOS</h4>
+    <h4>CONT&Aacute;CTANOS</h4>
     <h6>VIA TELEFONO</h6>
     <p>
         Llamanos al <strong>413-582-3532</strong>. Contestamos a todos los mensages en 24 horas.

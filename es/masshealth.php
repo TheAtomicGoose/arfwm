@@ -27,7 +27,7 @@ i te encuentras en los primeros meses de embarazo y no tienes seguro medico, pod
     </p>
     <br>
     <p>
-        Si usas<strong><a href="http://www.massresources.org/pages.cfm?contentID=50&pageID=13&Subpages=yes">Health Safety Net</a></strong> (o “Free Care”), el costo de los cuidados m&eacute;dicos relacionados al aborto tambi&eacute;n estar&aacute;n cubiertos, aunque puede que tengas que ir a Boston o a Cambridge. Si usas Health Safety Net y necesitas ayuda para encontrar una cl&iacute;nica o doctor, puedes llamarnos para obtener mas informaci&oacute;n. A veces tambi&eacute;n podemos ayudar a cubrir el costo de transporte a Boston.
+        Si usas <strong><a href="http://www.massresources.org/pages.cfm?contentID=50&pageID=13&Subpages=yes">Health Safety Net</a></strong> (o "Free Care"), el costo de los cuidados m&eacute;dicos relacionados al aborto tambi&eacute;n estar&aacute;n cubiertos, aunque puede que tengas que ir a Boston o a Cambridge. Si usas Health Safety Net y necesitas ayuda para encontrar una cl&iacute;nica o doctor, puedes llamarnos para obtener mas informaci&oacute;n. A veces tambi&eacute;n podemos ayudar a cubrir el costo de transporte a Boston.
     </p>
     <br>
     <p>

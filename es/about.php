@@ -15,7 +15,7 @@ require "sidebar.php";
     <br>
     <ul>
         <li>
-            ARFWM da asistencia financiera directamente a mujeres y ni&ntilde;as que procuran un aborto y no puede pagar por el. Nuestro compromiso principal es con las mujeres y ni&ntilde;as en los cuatro condados de la parte occidental de Massachusetts, pero tambi&eacute;n respondemos a la necesidad de otros en el país.
+            ARFWM da asistencia financiera directamente a mujeres y ni&ntilde;as que procuran un aborto y no puede pagar por el. Nuestro compromiso principal es con las mujeres y ni&ntilde;as en los cuatro condados de la parte occidental de Massachusetts, pero tambi&eacute;n respondemos a la necesidad de otros en el pa&iacute;s.
         </li>
         <br>
         <li>
@@ -52,7 +52,7 @@ require "sidebar.php";
     </p>
     <br>
     <p>
-        En Massachusetts, Medicaid si paga por el aborto, pero puede haber problemas inscribiendo a las mujeres r&aacute;pidamente. Medicaid no cubre a los trabajadores pobres que no pueden pagar un seguro medico, ni a la gente que no tiene donde vivir. Mujeres en Massachusetts con un seguro medico federal – soldados y sus familias, Nativos Americanos usando el Indian Health Services, mujeres en prisiones federales, y otros empleados del gobierno federal – y mujeres que trabajan para algunas organizaciones religiosas, no pueden usar su seguro medico para pagar por un aborto. Aun cuando su seguro medico cubre el aborto, las mujeres en relaciones abusivas o situaciones peligrosas en su familia no podr&aacute;n usarlo de manera segura. Estas son las mujeres que ayudamos.
+        En Massachusetts, Medicaid si paga por el aborto, pero puede haber problemas inscribiendo a las mujeres r&aacute;pidamente. Medicaid no cubre a los trabajadores pobres que no pueden pagar un seguro medico, ni a la gente que no tiene donde vivir. Mujeres en Massachusetts con un seguro medico federal &ndash; soldados y sus familias, Nativos Americanos usando el Indian Health Services, mujeres en prisiones federales, y otros empleados del gobierno federal &ndash; y mujeres que trabajan para algunas organizaciones religiosas, no pueden usar su seguro medico para pagar por un aborto. Aun cuando su seguro medico cubre el aborto, las mujeres en relaciones abusivas o situaciones peligrosas en su familia no podr&aacute;n usarlo de manera segura. Estas son las mujeres que ayudamos.
     </p>
     <br>
     <p>
