@@ -13,7 +13,7 @@ require "sidebar.php";
     <div id="border-solid">
         <h4>NOW AVAILABLE!</h4>
         <br>
-        <a href="http://arfwm.org/pdf/abortion_care_in_ma_report.pdf">Report on Abortion in Massachusetts</a>
+        <a href="https://fundabortionnow.org/sites/default/files/abortion_care_in_ma_report.pdf">Report on Abortion in Massachusetts</a>
     </div>
     <h4>ESTAMOS AQUI PARA AYUDARTE</h4>
     <br>

@@ -31,7 +31,7 @@ require "sidebar.php";
         <p>
             In 2011, the Massachusetts Abortion Funds published an extensive evaluation on the experiences of women seeking insurance for abortion care in the state.
             <br><br>
-            <a href="http://arfwm.org/pdf/abortion_care_in_ma_report.pdf">Read the report on abortion care in Massachusetts</a>
+            <a href="https://fundabortionnow.org/sites/default/files/abortion_care_in_ma_report.pdf">Read the report on abortion care in Massachusetts</a>
         </p>
     </div>
     <br>
