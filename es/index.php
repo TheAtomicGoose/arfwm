@@ -7,6 +7,7 @@ require "sidebar.php";
 <div class="col-xs-9" id="col2">
     <h4>NOSOTROS CREEMOS <span id="lang-switcher"><a href="../en/index.php">English</a> / <a href="#">Espa&ntilde;ol</a></span></h4>
     <br>
+    <br>
     <p>
         Que cada mujer y ni&ntilde;a debe tener solo los hijos que desea. El Abortion Rights Fund of Westerm Massachusetts financia decisiones que hacen esta visi&oacute;n una realidad.
     </p>

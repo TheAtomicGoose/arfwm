@@ -114,8 +114,8 @@ $(window).resize(function() {
 
 // Makes the left column at least as tall as the right column
 function resize() {
-    if ($(".col-xs-9").height() > $("#col1").height()) {
-        $("#col1").height($(".col-xs-9").height());
+    if ($("#col2").height() > $("#col1").height()) {
+        $("#col1").height($("#col2").height());
     }
 }
 
