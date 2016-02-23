@@ -15,6 +15,7 @@ body {
     margin-left: 0px;
     color: white;
     padding-top: 15px;
+    position: relative;
 }
 
 #col2 {
@@ -116,4 +117,14 @@ h6 {
 #lang-switcher a {
     color: gray;
     text-decoration: underline;
+}
+
+#facebook {
+    position: absolute;
+    bottom: 0;
+}
+
+#facebook a img {
+    height: 15%;
+    width: 15%;
 }
