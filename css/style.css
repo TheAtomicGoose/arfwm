@@ -119,12 +119,23 @@ h6 {
     text-decoration: underline;
 }
 
-#facebook {
-    position: absolute;
-    bottom: 0;
-}
-
 #facebook a img {
     height: 15%;
     width: 15%;
+}
+
+#mailer {
+    text-decoration: underline;
+    margin-top: 15px;
+}
+
+#mailer:hover {
+    color: #C24E4E;
+}
+
+@media screen and (max-width: 700px) {
+    #facebook a img {
+        height: 60%;
+        width: 60%;
+    }
 }

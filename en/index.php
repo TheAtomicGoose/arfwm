@@ -7,7 +7,6 @@ require "sidebar.php";
 <div class="col-xs-9" id="col2">
     <h4>WE ARE HERE TO HELP YOU <span id="lang-switcher"><a href="#">English</a> / <a href="../es/index.php">Espa&ntilde;ol</a></span></h4> 
     <br>
-    <br>
     <p>
         We provide financial assistance to women and girls who are seeking abortions. While we don't provide abortion care, we are here to help you pay for your abortion if you cannot afford it.
     </p>
@@ -25,6 +24,8 @@ require "sidebar.php";
     <p>
         Every woman and girl should be able to have only the children she wants to have. The Abortion Rights Fund of Western Massachusetts funds choices that make this vision a reality.
     </p>
+    <a href="./donate.php#mc_embed_signup"><h4 id="mailer">JOIN OUR MAILING LIST</h4></a>
+    <br>
 
     <div id="border-solid">
         <h4>READ THE REPORT</h4>

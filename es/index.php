@@ -5,18 +5,7 @@ require "sidebar.php";
 ?>
     
 <div class="col-xs-9" id="col2">
-    <h4>NOSOTROS CREEMOS <span id="lang-switcher"><a href="../en/index.php">English</a> / <a href="#">Espa&ntilde;ol</a></span></h4>
-    <br>
-    <br>
-    <p>
-        Que cada mujer y ni&ntilde;a debe tener solo los hijos que desea. El Abortion Rights Fund of Westerm Massachusetts financia decisiones que hacen esta visi&oacute;n una realidad.
-    </p>
-    <div id="border-solid">
-        <h4>NOW AVAILABLE!</h4>
-        <br>
-        <a href="https://fundabortionnow.org/sites/default/files/abortion_care_in_ma_report.pdf">Report on Abortion in Massachusetts</a>
-    </div>
-    <h4>ESTAMOS AQUI PARA AYUDARTE</h4>
+    <h4>ESTAMOS AQUI PARA AYUDARTE <span id="lang-switcher"><a href="../en/index.php">English</a> / <a href="#">Espa&ntilde;ol</a></span></h4>
     <br>
     <p>
         Damos asistencia financiera a mujeres y ni&ntilde;as que procuran abortos. No ofrecemos cuidados o atenciones en relaci&oacute;n a un aborto, estamos aqu&iacute; para ayudarte a pagar si no puedes encontrar fondos.
@@ -30,7 +19,18 @@ require "sidebar.php";
     <p>
         Por favor ll&aacute;manos &iexcl;estamos aqu&iacute; para ayudarte!
     </p>
+    <h4>NOSOTROS CREEMOS </h4>
     <br>
+    <p>
+        Que cada mujer y ni&ntilde;a debe tener solo los hijos que desea. El Abortion Rights Fund of Westerm Massachusetts financia decisiones que hacen esta visi&oacute;n una realidad.
+    </p>
+    <a href="./donate.php#mc_embed_signup"><h4 id="mailer">&Uacute;NETE A NUESTRA LISTA DE CORREO</h4></a>
+    <br>
+    <div id="border-solid">
+        <h4>&iexcl;DISPONIBLE AHORA!</h4>
+        <br>
+        <a href="https://fundabortionnow.org/sites/default/files/abortion_care_in_ma_report.pdf">Reporte en el aborto en Massachusetts</a>
+    </div>
     <img id="nnaf" src="../images/nnaf.gif">
 </div>
 <?php
